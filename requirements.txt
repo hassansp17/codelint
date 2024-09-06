@@ -6,6 +6,5 @@ pydocstyle
 pylama
 flake8
 bandit
-
 yamllint
 ansible-lint
